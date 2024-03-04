@@ -1,2 +1,2 @@
 # FreeLoad
-A rust project to create load balancing software, with ideally an imbeded solution and a software solution
+A rust project to create load balancing software. Free for everyone based on using [Pingora](https://github.com/cloudflare/pingora).
